@@ -1,0 +1,100 @@
+[
+  {
+    "Título": "Harry Potter e a Pedra Filosofal",
+    "Diretor": "Chris Columbus",
+    "Ano": 2001,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://img.elo7.com.br/product/main/2657A44/big-poster-harry-potter-e-a-pedra-filosofal-lo03-90x60-cm-poster.jpg"
+  },
+  {
+    "Título": "Harry Potter e a Câmara Secreta",
+    "Diretor": "Chris Columbus",
+    "Ano": 2002,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://upload.wikimedia.org/wikipedia/pt/3/33/Chamber_of_Secrets.jpg"
+  },
+  {
+    "Título": "Harry Potter e o Prisioneiro de Azkaban",
+    "Diretor": "Alfonso Cuarón",
+    "Ano": 2004,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/93/88/04/20282944.jpg"
+  },
+  {
+    "Título": "Harry Potter e o Cálice de Fogo",
+    "Diretor": "Mike Newell",
+    "Ano": 2005,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/75/8d/54/758d542bbdaabc02a5da530d460be0f5.jpg"
+  },
+  {
+    "Título": "Harry Potter e a Ordem da Fênix",
+    "Diretor": "David Yates",
+    "Ano": 2007,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/e6/70/fa/e670fa838aa7fca9773113d095b4b18f.jpg"
+  },
+  {
+    "Título": "Harry Potter e o Enigma do Príncipe",
+    "Diretor": "David Yates",
+    "Ano": 2009,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/236x/ae/b4/bf/aeb4bfc535f153fac10129564e643d98.jpg"
+  },
+  {
+    "Título": "Harry Potter: Relíquias da Morte Pt 1",
+    "Diretor": "David Yates",
+    "Ano": 2010,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/03/11/45/031145e9fd25ccede5d1b9521c2eae50.jpg"
+  },
+  {
+    "Título": "Harry Potter: Relíquias da Morte Pt 2",
+    "Diretor": "David Yates",
+    "Ano": 2011,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/74/0b/64/740b642b30f2036874cc8004d2c489b9.jpg"
+  },
+  {
+    "Título": "O Senhor dos Anéis: A Sociedade do Anel",
+    "Diretor": "Peter Jackson",
+    "Ano": 2001,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/c7/89/fd/c789fd292e75beeb861ee4059317f46a.jpg"
+  },
+  {
+    "Título": "O Senhor dos Anéis: As Duas Torres",
+    "Diretor": "Peter Jackson",
+    "Ano": 2002,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/2f/4f/71/2f4f7168c50352fa7c374e7fd3c9480e.jpg"
+  },
+  {
+    "Título": "O Senhor dos Anéis: O Retorno do Rei",
+    "Diretor": "Peter Jackson",
+    "Ano": 2003,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/58/80/7a/58807a61f3ad7a57d9745b8e7c732040.jpg"
+  },
+  {
+    "Título": "O Hobbit: Uma Jornada Inesperada",
+    "Diretor": "Peter Jackson",
+    "Ano": 2012,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/51/ef/e2/51efe2bd3dffda28f69747812b95a573.jpg"
+  },
+  {
+    "Título": "O Hobbit: A Desolação de Smaug",
+    "Diretor": "Peter Jackson",
+    "Ano": 2013,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/d5/00/84/d500847e6926a554cbee1feaa111bb6a.jpg"
+  },
+  {
+    "Título": "O Hobbit: A Batalha dos Cinco Exércitos",
+    "Diretor": "Peter Jackson",
+    "Ano": 2014,
+    "Gênero": "Fantasia, Aventura",
+    "Imagem": "https://i.pinimg.com/736x/d1/c1/c4/d1c1c4e7d78675223cc8654da731044e.jpg"
+  }
+]
